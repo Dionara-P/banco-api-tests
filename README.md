@@ -24,11 +24,11 @@ Ensure the reliability, security, and correctness of the Banco REST API through 
 banco-api-tests/ 
 ├── test/ │   
 ├── login.test.js │   
-├── transferencia.test.js 
-├── mochawesome-report/ 
-├── .gitignore 
-├── package.json 
-└── README.md
+├── transferencia.test.js   
+├── mochawesome-report/   
+├── .gitignore   
+├── package.json   
+└── README.md  
 
 
 ## ⚙️ .env File Format
